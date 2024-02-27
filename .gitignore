@@ -1,0 +1,4 @@
+bazel-bin
+bazel-jetpack-compose
+bazel-out
+bazel-testlogs

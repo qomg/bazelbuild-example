@@ -1,0 +1,4 @@
+# 启用 Bzlmod
+common --enable_bzlmod
+## 验证目标是否仍会在没有开发依赖项的情况下进行构建
+#common --ignore_dev_dependency

@@ -1,0 +1,6 @@
+# Default ignored files
+/libraries
+.name
+/workspace.xml
+/modules.xml
+/shelf/
